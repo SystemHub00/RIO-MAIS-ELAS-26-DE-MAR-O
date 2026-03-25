@@ -514,7 +514,6 @@ src="https://www.facebook.com/tr?id=26419185324388434&ev=PageView&noscript=1"
                                     <b>Ao confirmar você declara ciência de que:</b>
                                     <ul style="margin: 8px 0 0 18px; color:#008ff0; font-weight:400;">
                                         <li>O evento é totalmente gratuito</li>
-                                        <li>Em caso de chuva será cancelado</li>
                                         <li>Os dados serão usados apenas para inscrição</li>
                                     </ul>
                                 </label>
